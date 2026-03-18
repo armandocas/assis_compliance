@@ -1,0 +1,18 @@
+{
+  "name": "Assistente de Compliance",
+  "short_name": "Compliance",
+  "description": "Avalie a conformidade de e-commerce e marketplace com LGPD e CDC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
